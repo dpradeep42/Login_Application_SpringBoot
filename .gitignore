@@ -1,0 +1,16 @@
+target/
+build/
+*.class
+*.jar
+!LoginApplication/.mvn/wrapper/maven-wrapper.jar
+
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+.settings/
+.classpath
+.project
+
+.env
